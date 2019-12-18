@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Shapes.Solution/Shapes/Shapes.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Shapes/Shapes/Shapes.csproj",
       "projectName": "Shapes",
-      "projectPath": "/Users/Guest/Desktop/Shapes.Solution/Shapes/Shapes.csproj",
+      "projectPath": "/Users/Guest/Desktop/Shapes/Shapes/Shapes.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Shapes.Solution/Shapes/obj/",
+      "outputPath": "/Users/Guest/Desktop/Shapes/Shapes/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

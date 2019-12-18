@@ -7,3 +7,12 @@
 /Users/Guest/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
 /Users/Guest/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
 /Users/Guest/Desktop/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
+/Users/Guest/Desktop/Shapes/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Shapes/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Shapes/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Shapes/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/Guest/Desktop/Shapes/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/Guest/Desktop/Shapes/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb
+/Users/Guest/Desktop/Shapes/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/Guest/Desktop/Shapes/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/Guest/Desktop/Shapes/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb

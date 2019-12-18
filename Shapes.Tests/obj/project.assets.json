@@ -5835,11 +5835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Shapes.Solution/Shapes.Tests/Shapes.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Shapes/Shapes.Tests/Shapes.Tests.csproj",
       "projectName": "Shapes.Tests",
-      "projectPath": "/Users/Guest/Desktop/Shapes.Solution/Shapes.Tests/Shapes.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/Shapes/Shapes.Tests/Shapes.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Shapes.Solution/Shapes.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/Shapes/Shapes.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5856,8 +5856,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/Shapes.Solution/Shapes/Shapes.csproj": {
-              "projectPath": "/Users/Guest/Desktop/Shapes.Solution/Shapes/Shapes.csproj"
+            "/Users/Guest/Desktop/Shapes/Shapes/Shapes.csproj": {
+              "projectPath": "/Users/Guest/Desktop/Shapes/Shapes/Shapes.csproj"
             }
           }
         }
